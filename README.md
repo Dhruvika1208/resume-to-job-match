@@ -115,7 +115,6 @@ Open a new terminal window
 cd frontend
 npm start
 ```
-
 Frontend runs on
 [http://localhost:3000](http://localhost:3000)
 
