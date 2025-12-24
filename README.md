@@ -1,4 +1,3 @@
-
 # AI Resume to Job Matcher
 
 An AI-powered web application that analyzes a user’s resume and recommends suitable job roles based on extracted skills, education, and projects. This project is designed especially for students and freshers to understand their career fit and improve job readiness.
@@ -160,6 +159,3 @@ Frontend runs on
 ---
 
 ## Author
-
-Dhruvika Gannamani
-B.Tech – Computer Science and Engineering (AI and Data Science)
