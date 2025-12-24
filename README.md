@@ -160,3 +160,6 @@ Frontend runs on
 
 ## Author
 
+
+Dhruvika Gannamani
+B.Tech – Computer Science and Engineering (AI and Data Science)
