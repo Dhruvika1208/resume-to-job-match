@@ -15,7 +15,6 @@ This project helps by reading resumes automatically, extracting relevant informa
 4. Job roles are matched based on skill overlap
 5. Results are displayed on the frontend
 
----
 
 ## Tech Stack Used
 
